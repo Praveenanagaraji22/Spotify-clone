@@ -1,5 +1,4 @@
 {
-  "homepage": "https://praveenanagaraji22.github.io/Spotify-clone/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
